@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m "RouteOptima Web Service"
+git remote add origin https://github.com/yourusername/routeoptima.git
+git push -u origin main
