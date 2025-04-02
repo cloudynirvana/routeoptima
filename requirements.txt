@@ -1,0 +1,6 @@
+flask
+numpy
+scipy
+scikit-optimize
+networkx
+gunicorn
